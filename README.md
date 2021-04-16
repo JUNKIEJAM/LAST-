@@ -1,1 +1,2 @@
-# LAST-
+npm install
+npm start
